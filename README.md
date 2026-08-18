@@ -2,7 +2,7 @@
 
 ### Благодарственные письма
 * **МБОО САГ «Братские сердца»** — За разработку голосового Telegram-бота и RAG-модуля.  
-  ![Братские сердца]([./letter_brotherly_hearts.png](https://github.com/sokvital/Certificates_and_Letters/blob/main/serdca_letter.png))
+  ![Братские сердца][(./letter_brotherly_hearts.png](https://github.com/sokvital/Certificates_and_Letters/blob/main/serdca_letter.png))](https://github.com/sokvital/Certificates_and_Letters/blob/main/algofusion_letter.png)
 
 * **ООО «АлгоФьюжн»** — За разработку ML-модели прогнозирования (2 место из 12 алгоритмов).  
   ![АлгоФьюжн](https://github.com/sokvital/Certificates_and_Letters/blob/main/algofusion_letter.png)
