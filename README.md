@@ -8,7 +8,7 @@
   ![АлгоФьюжн](https://github.com/sokvital/Certificates_and_Letters/blob/main/algofusion_letter.png)
 
 * **ООО «ГИПЕР»** — За разработку системы классификации и аргументации отзывов (1 место из 10 систем).  
-  ![ГИПЕР](./letter_giper.png)
+  ![ГИПЕР](./letter_giper.jpg)
 
 ### Сертификаты и хакатоны
 * **IT Purple Hack 2026 (МФТИ / Ингосстрах)** — Подтверждение участия и успешной защиты кейсов (Team Lead).  
