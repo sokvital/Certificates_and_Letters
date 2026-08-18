@@ -5,7 +5,7 @@
   ![Братские сердца]([./letter_brotherly_hearts.png](https://github.com/sokvital/Certificates_and_Letters/blob/main/serdca_letter.png))
 
 * **ООО «АлгоФьюжн»** — За разработку ML-модели прогнозирования (2 место из 12 алгоритмов).  
-  ![АлгоФьюжн](./letter_algofusion.png)
+  ![АлгоФьюжн](https://github.com/sokvital/Certificates_and_Letters/blob/main/algofusion_letter.png)
 
 * **ООО «ГИПЕР»** — За разработку системы классификации и аргументации отзывов (1 место из 10 систем).  
   ![ГИПЕР](./letter_giper.png)
