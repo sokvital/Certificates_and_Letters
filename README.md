@@ -1,4 +1,9 @@
 # Награды, сертификаты и благодарности
+* **Университет Искусственного Интеллекта** — Сертификат GPT Engineer (2026).  
+  ![GPT Engineer](./certificate_gpt_engineer.png)
+  
+* **Университет Искусственного Интеллекта** — Сертификат GPT Engineer (2026).  
+  ![GPT Engineer](./certificate_gpt_engineer1.png)
 
 ### Благодарственные письма
 * **МБОО САГ «Братские сердца»** — За разработку голосового Telegram-бота и RAG-модуля.  
@@ -14,5 +19,3 @@
 * **IT Purple Hack 2026 (МФТИ / Ингосстрах)** — Подтверждение участия и успешной защиты кейсов (Team Lead).  
   ![IT Purple Hack 2026](./certificate_purple_hack.png)
 
-* **Университет Искусственного Интеллекта** — Сертификат GPT Engineer (2026).  
-  ![GPT Engineer](./certificate_gpt_engineer.png)
