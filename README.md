@@ -1,5 +1,5 @@
 # Награды, сертификаты и благодарности
-### Сертификат
+### Сертификаты
 * **Университет Искусственного Интеллекта** — Сертификат GPT Engineer (2026).  
   ![GPT Engineer](./certificate_gpt_engineer.png)  
   ![GPT Engineer](./certificate_gpt_engineer1.png)
